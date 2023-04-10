@@ -172,3 +172,44 @@
 2023-04-10 13:42:21.433 [info] > git show --textconv HEAD:.vscode-server/data/logs/20230410T132002/exthost4/vscode.git/Git.log [16ms]
 2023-04-10 13:42:21.435 [info] > git ls-tree -l HEAD -- /home/ubuntu/.vscode-server/data/logs/20230410T132002/exthost4/vscode.git/Git.log [13ms]
 2023-04-10 13:42:21.944 [info] > git check-ignore -v -z --stdin [3ms]
+2023-04-10 13:42:23.791 [info] > git add -A -- /home/ubuntu/.vscode-server/data/logs/20230410T132002/exthost4/vscode.git/Git.log [11ms]
+2023-04-10 13:42:23.801 [info] No remotes found in the git config file.
+2023-04-10 13:42:23.801 [info] > git config --get commit.template [4ms]
+2023-04-10 13:42:23.803 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-04-10 13:42:23.822 [info] > git status -z -uall [16ms]
+2023-04-10 13:42:25.364 [info] > git ls-files --stage -- /home/ubuntu/.vscode-server/data/logs/20230410T132002/exthost4/vscode.git/Git.log [3ms]
+2023-04-10 13:42:25.370 [info] > git cat-file -s 17ba4a357247ad6221a0520c49f0a21d743624e6 [1ms]
+2023-04-10 13:42:25.516 [info] > git show --textconv :.vscode-server/data/logs/20230410T132002/exthost4/vscode.git/Git.log [4ms]
+2023-04-10 13:42:26.322 [info] No remotes found in the git config file.
+2023-04-10 13:42:26.323 [info] > git config --get commit.template [5ms]
+2023-04-10 13:42:26.325 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-04-10 13:42:26.344 [info] > git status -z -uall [16ms]
+2023-04-10 13:42:29.102 [info] > git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file - [21ms]
+2023-04-10 13:42:29.107 [info] > git config --get commit.template [2ms]
+2023-04-10 13:42:29.115 [info] No remotes found in the git config file.
+2023-04-10 13:42:29.115 [info] > git config --get commit.template [4ms]
+2023-04-10 13:42:29.117 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-04-10 13:42:29.137 [info] > git status -z -uall [16ms]
+2023-04-10 13:42:29.345 [info] No remotes found in the git config file.
+2023-04-10 13:42:29.345 [info] > git config --get commit.template [6ms]
+2023-04-10 13:42:29.347 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-04-10 13:42:29.366 [info] > git status -z -uall [16ms]
+2023-04-10 13:42:30.669 [info] > git ls-tree -l HEAD -- /home/ubuntu/.vscode-server/data/logs/20230410T132002/exthost4/vscode.git/Git.log [4ms]
+2023-04-10 13:42:30.815 [info] > git show --textconv HEAD:.vscode-server/data/logs/20230410T132002/exthost4/vscode.git/Git.log [3ms]
+2023-04-10 13:42:31.358 [info] No remotes found in the git config file.
+2023-04-10 13:42:31.358 [info] > git config --get commit.template [6ms]
+2023-04-10 13:42:31.360 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-04-10 13:42:31.379 [info] > git status -z -uall [16ms]
+2023-04-10 13:42:36.075 [info] > git check-ignore -v -z --stdin [4ms]
+2023-04-10 13:42:36.390 [info] No remotes found in the git config file.
+2023-04-10 13:42:36.391 [info] > git config --get commit.template [5ms]
+2023-04-10 13:42:36.393 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-04-10 13:42:36.412 [info] > git status -z -uall [17ms]
+2023-04-10 13:42:41.424 [info] No remotes found in the git config file.
+2023-04-10 13:42:41.424 [info] > git config --get commit.template [5ms]
+2023-04-10 13:42:41.426 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-04-10 13:42:41.446 [info] > git status -z -uall [17ms]
+2023-04-10 13:42:46.465 [info] No remotes found in the git config file.
+2023-04-10 13:42:46.466 [info] > git config --get commit.template [12ms]
+2023-04-10 13:42:46.467 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-04-10 13:42:46.487 [info] > git status -z -uall [17ms]
