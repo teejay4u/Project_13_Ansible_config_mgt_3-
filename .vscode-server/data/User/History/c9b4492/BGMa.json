@@ -1,0 +1,11 @@
+{
+    "remote.SSH.remotePlatform": {
+        "jenkins-ansible": "linux"
+    },
+    "editor.accessibilitySupport": "off",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "git.enableSmartCommit": true,
+    "git.autofetch": true
+}
